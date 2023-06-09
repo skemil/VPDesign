@@ -5323,6 +5323,10 @@ strong:hover {
   .brix---grid-hero-v16 {
     grid-column-gap: 90px;
   }
+  
+  .f-h1-heading {
+     padding-bottom: 140px;
+  }
 
   .image-22 {
     width: 200px;
