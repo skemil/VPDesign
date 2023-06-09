@@ -5323,10 +5323,6 @@ strong:hover {
   .brix---grid-hero-v16 {
     grid-column-gap: 90px;
   }
-  
-  .f-h1-heading {
-     padding-bottom: 140px;
-  }
 
   .image-22 {
     width: 200px;
@@ -5334,6 +5330,14 @@ strong:hover {
 }
 
 @media screen and (min-width: 1920px) {
+  .f-h1-heading {
+    padding-bottom: 148px;
+  }
+
+  .f-section-large.mainblockk {
+    padding-top: 100px;
+  }
+
   .f-footer-small {
     width: 100%;
     position: static;
@@ -5341,10 +5345,6 @@ strong:hover {
     bottom: 0%;
     left: 0%;
     right: 0%;
-  }
-  
-  .f-h1-heading {
-     padding-bottom: 140px;
   }
 
   .f-section-regular.x {
@@ -5402,7 +5402,7 @@ strong:hover {
   }
 
   .image-6 {
-    z-index: 4;
+    z-index: 0;
     top: auto;
     bottom: 0%;
     left: 0%;
@@ -5437,10 +5437,6 @@ strong:hover {
 
   .body {
     background-color: #0f1217;
-  }
-
-  .f-navigation-2 {
-    z-index: 100;
   }
 
   .kutup-hero-3 {
