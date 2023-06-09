@@ -5431,6 +5431,10 @@ strong:hover {
     background-color: #0f1217;
   }
 
+  .f-navigation-2 {
+    z-index: 100;
+  }
+
   .kutup-hero-3 {
     padding-bottom: 310px;
   }
