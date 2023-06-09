@@ -5338,6 +5338,10 @@ strong:hover {
     left: 0%;
     right: 0%;
   }
+  
+  .f-h1-heading {
+     padding-bottom: 140px;
+  }
 
   .f-section-regular.x {
     padding-top: 216px;
